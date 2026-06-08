@@ -69,3 +69,7 @@ The system classifies text into 5 categories:
 - [Lucide]- Icons
 
 
+
+## 👨‍💻 Developer
+
+* Rohit Vijay Dusane
